@@ -4,7 +4,7 @@ This portfolio is a small project using HTML / CSS / Bootscrap. I will be using 
 
 [Live Heroku depolyment](https://portfolio-jacquelinejoe.herokuapp.com/)
 
-(![image](https://user-images.githubusercontent.com/107904572/179337034-eaf7e80c-e83b-4b0c-8ebd-480b9e6b82c1.png)
+![image](https://user-images.githubusercontent.com/107904572/179337034-eaf7e80c-e83b-4b0c-8ebd-480b9e6b82c1.png)
 
 ## Technologies Used
 
